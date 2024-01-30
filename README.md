@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr-Barrie
 - 👀 I’m interested in Research writing, reserch collaborations, technical writing and coding
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning to become a full stack frontend developer.
 - 💞️ I’m looking to collaborate on any form of scientific and technological writing/research
 - 📫 How to reach me ...email: prettybarrie@gmail.com
 - 😄 Pronouns: ... She
